@@ -1,2 +1,10 @@
 pytest
 pylint
+
+# This is for Question 3 on the Extra Credit section
+
+# pip list returns the following call outs for pylist and pytest version:
+
+# pytest - 7.4.2
+# pylint - 2.17.5 
+
